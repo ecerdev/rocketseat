@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Formulários e Validações" src=".github/preview.jpg" width="100%">
+  <img alt="Formulários e Validações" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
