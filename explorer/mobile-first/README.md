@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Mobile First" src=".github/preview.png" width="100%">
+  <img alt="Mobile First" src=".github/preview.png" width="30%">
 </p>
 
 ## 🚀 Tecnologias
